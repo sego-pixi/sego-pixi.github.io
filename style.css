@@ -24,9 +24,9 @@ body{
 }
 
 .user-box img{
-    height: 300px;
+    height: 600px;
     border-radius: 50%;
-    width: 300px;
+    width: 600px;
     border: 2px solid #06041d;
 }
 
